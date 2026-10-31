@@ -30,7 +30,7 @@ cd GameHub
 Just run and play it.
 
 ```bash
-./backup.sh ~/Documents
+./backup.sh ~/Documents # no clue
 ```
 
 ## Roadmap
