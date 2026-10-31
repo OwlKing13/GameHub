@@ -22,7 +22,7 @@ so I want to make versions of viable games with java that are playable locally t
 ```bash
 git clone https://github.com/OwlKing13/GameHub
 cd GameHub
-./install.sh   # or whatever
+./install.sh   # not done yet
 ```
 
 ## Usage
@@ -30,7 +30,7 @@ cd GameHub
 Just run and play it.
 
 ```bash
-./backup.sh ~/Documents # no clue
+./backup.sh ~/Documents # no clue yet
 ```
 
 ## Roadmap
